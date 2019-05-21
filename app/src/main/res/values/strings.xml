@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2152019</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Toast 21-5-2019 Task 5!</string>
+</resources>
